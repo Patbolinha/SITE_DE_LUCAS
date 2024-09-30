@@ -18,24 +18,13 @@ header a{
     margin-left: 15px;
     margin-right: 150px;
     text-decoration: none;
+    color: black;
 }
-.coluna1{
-    display: flex;
-    margin-top: 5%;
-    
+.carrinho img{
+    width: 40px;
+    margin: 50px;
 }
-.coluna1 {
-    display: flex;
-    margin-top: 5%;
-    border-radius: 50%;
-    
-}
-.coluna1 img{
-    border-radius: 10%;
-
-}
-
-.coluna1{
+ .flor1{
     background-color: rgb(189, 181, 181);
     height: 40PX;
     border-radius: 20px;
@@ -45,23 +34,7 @@ header a{
     display: flex;
  }
 
- .coluna2{
-    display: flex;
-    margin-top: 5%;
-    
-}
-.coluna2 {
-    display: flex;
-    margin-top: 5%;
-    border-radius: 50%;
-    
-}
-.coluna2 img{
-    border-radius: 10%;
-
-}
-
-.coluna2{
+ .flor2{
     background-color: rgb(189, 181, 181);
     height: 40PX;
     border-radius: 20px;
@@ -71,24 +44,7 @@ header a{
     display: flex;
  }
 
- 
- .coluna3{
-    display: flex;
-    margin-top: 5%;
-    
-}
-.coluna3 {
-    display: flex;
-    margin-top: 5%;
-    border-radius: 50%;
-    
-}
-.coluna3 img{
-    border-radius: 10%;
-
-}
-
-.coluna3{
+ .flor3{
     background-color: rgb(189, 181, 181);
     height: 40PX;
     border-radius: 20px;
@@ -97,3 +53,39 @@ header a{
     font-size: larger;
     display: flex;
  }
+
+ .flor4{
+    background-color: rgb(189, 181, 181);
+    height: 40PX;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: left;
+    font-size: larger;
+    display: flex;
+ }
+ .flor1 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+ }
+ .flor2 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+ }
+ .flor3 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+
+ }
+ .flor4 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+ }
+ .rodape{
+   background-color: rgb(0, 0, 0);
+   color: white;
+   display: flex;
+}
+       .rodape img{
+           margin-right: 20px;
+           width: 50px;
+       }
